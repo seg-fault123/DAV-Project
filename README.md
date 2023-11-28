@@ -20,4 +20,4 @@ Yash Dabral (21570)
 7) For each season, which raider has the best do-or-die points to total raid points ratio?
 8) For each season, what is the longest winning/losing streak and by which team? 
 9) What is the impact of a player's performance when they play for a different team?
-10) Which team changes their squads the most on a seasonal basis?
+10) Which team retain their squads the most on a seasonal basis?
